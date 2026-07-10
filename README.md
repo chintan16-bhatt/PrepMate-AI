@@ -169,8 +169,12 @@ HireWise AI aims to provide students and professionals with a smart interview pr
 
 ## 📸 Screenshots
 
+<img width="1877" height="906" alt="image" src="https://github.com/user-attachments/assets/9e51fc33-cee6-4e36-850e-d0acb0221d77" />
+<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/f62961b3-46c6-49b0-93bb-96f89502d8fe" />
+<img width="1887" height="907" alt="image" src="https://github.com/user-attachments/assets/516c84f6-3475-452a-9958-87bccd457351" />
+<img width="1890" height="901" alt="image" src="https://github.com/user-attachments/assets/21e6b5b7-7776-451c-9f34-006dfac3a407" />
+<img width="1892" height="902" alt="image" src="https://github.com/user-attachments/assets/ea6946fb-714f-498b-bbf6-3ccc14cdae27" />
 
-(Add project screenshots here)
 
 
 
@@ -197,7 +201,7 @@ https://github.com/auchyutsharma/HireWise-AI
 ## 👨‍💻 Developer
 
 
-**Happy Sharma**
+**Auchyut Sharma**
 
 
 
