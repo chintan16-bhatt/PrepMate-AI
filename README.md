@@ -179,7 +179,7 @@ HireWise AI aims to provide students and professionals with a smart interview pr
 ## 🌐 Live Demo
 
 
-(Add deployment link here)
+https://auchyutsharma.github.io/HireWise-AI/
 
 
 
@@ -188,7 +188,7 @@ HireWise AI aims to provide students and professionals with a smart interview pr
 ## 🔗 Repository
 
 
-(Add GitHub repository link here)
+https://github.com/auchyutsharma/HireWise-AI
 
 
 
