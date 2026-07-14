@@ -1,180 +1,121 @@
-# 🤖 HireWise AI
 
-### AI Powered Smart Interview Preparation Platform 🚀
-
-
-HireWise AI is a modern AI-based interview preparation platform designed to help candidates improve their technical knowledge, communication skills, and interview confidence.
-
-The platform simulates an intelligent interview assistant that generates role-specific questions, evaluates candidate responses, and provides personalized improvement suggestions.
-
-
-
+Readme · MD
+# 🤖 PrepMate AI
+ 
+**Your Personal AI-Style Interview Coach 🚀**
+ 
+PrepMate AI is a browser-based interview prep tool built to help job seekers sharpen their technical answers, polish their communication, and walk into interviews with more confidence. It mimics an intelligent interview coach — generating role-specific questions, reviewing responses, and offering tips on where to improve.
+ 
 ---
-
-## 🌟 Overview
-
-
-Preparing for interviews can be challenging because every role requires different technical knowledge, communication ability, and confidence.
-
-HireWise AI provides a smart preparation environment where users can select their desired job role, experience level, and practice mock interviews through an interactive AI-style interface.
-
-
-
+ 
+## 🌟 About the Project
+ 
+No two interviews are the same — a backend role, a design role, and an HR round all call for different prep. PrepMate AI gives candidates a focused practice space: pick a role, set an experience level, and run through a simulated interview session in an interactive interface.
+ 
 ---
-
-## ✨ Features
-
-
-### 👤 Candidate Profile Setup
-
-- Enter candidate details
-- Select desired job role
-- Choose experience level
-- Upload resume interface
-
-
-### 🎯 Personalized Interview Questions
-
-- Role-based interview questions
-- Technical question generation
-- HR interview preparation
-- Skill-based practice
-
-
-### 🤖 AI Interview Simulation
-
-- Interactive mock interview room
-- AI interviewer experience
-- Real-time question generation
-- Answer submission interface
-
-
-### 📊 Smart Evaluation System
-
-- AI-style answer analysis
-- Interview score generation
-- Strength identification
-- Improvement suggestions
-
-
-### 📈 Performance Dashboard
-
-- Technical score tracking
+ 
+## ✨ Core Features
+ 
+### 👤 Profile Setup
+- Add your basic candidate info
+- Pick the job role you're targeting
+- Set your experience level
+- Resume upload section
+### 🎯 Tailored Question Sets
+- Questions matched to the chosen role
+- Technical/coding-focused prompts
+- HR & behavioral round prep
+- Skill-specific drills
+### 🤖 Mock Interview Mode
+- Simulated interview room experience
+- AI-interviewer-style flow
+- Questions generated on the fly
+- Space to type and submit answers
+### 📊 Response Evaluation
+- Automated review of submitted answers
+- Scoring for each interview attempt
+- Highlights of strong points
+- Suggestions for what to work on
+### 📈 Progress Dashboard
+- Track technical performance over time
 - Confidence rating
-- Interview readiness score
-
-
-
+- Overall interview-readiness score
 ---
-
-## 🛠️ Technology Stack
-
-
-Frontend:
-
+ 
+## 🛠️ Built With
+ 
+**Frontend**
 - HTML5
 - CSS3
 - JavaScript
-
-
-Design:
-
-- Responsive UI
-- Glassmorphism Effects
-- Gradient Interface
-- Modern AI Dashboard Theme
-
-
-
+**Design Approach**
+- Fully responsive layout
+- Glassmorphism-style UI
+- Gradient-based visuals
+- Clean, modern dashboard look
 ---
-
-## 📂 Project Structure
-
-
-```text
-HireWise-AI/
-
+ 
+## 📂 Folder Structure
+ 
+```
+PrepMate-AI/
 │
 ├── index.html
-│
 ├── style.css
-│
 ├── script.js
-│
 ├── README.md
-│
-└── assets/
+└── screenshots/
 ```
-
-
-
+ 
 ---
-
-## ⚙️ How It Works
-
-
-```text
-
-Candidate Profile
-
-        ↓
-
-Role & Experience Selection
-
-        ↓
-
-AI Question Generator
-
-        ↓
-
-Mock Interview Session
-
-        ↓
-
-Answer Evaluation
-
-        ↓
-
-Performance Feedback
-
+ 
+## ⚙️ App Flow
+ 
 ```
-
-
+Set Up Profile
+      ↓
+Choose Role & Experience Level
+      ↓
+Generate Questions
+      ↓
+Run Mock Interview
+      ↓
+Review Answers
+      ↓
+Get Feedback & Score
+```
+ 
+---
+ 
+## 🚀 Roadmap
+ 
+- [ ] Hook up a real AI/LLM backend
+- [ ] Resume parsing
+- [ ] Voice-based interview mode
+- [ ] User login & authentication
+- [ ] Save & revisit past interview attempts
+- [ ] Export performance report as PDF
+- [ ] Persistent database storage
 
 ---
-
-## 🚀 Future Enhancements
-
-
-- Real AI Model Integration
-- Resume Parsing System
-- Voice Based Interviews
-- Authentication System
-- Interview History Tracking
-- PDF Performance Reports
-- Database Integration
-
-
-
----
-
-## 🎯 Purpose
-
-
-HireWise AI aims to provide students and professionals with a smart interview preparation environment where they can practice, improve their answers, and increase confidence before real interviews.
-
+ 
+## 🎯 Why This Project Exists
+ 
+PrepMate AI was built to give students and job seekers a low-pressure space to rehearse interviews, get honest feedback on their answers, and build real confidence before the actual interview day.
 
 
 ---
 
 ## 📸 Screenshots
 
-<img width="1877" height="906" alt="image" src="https://github.com/user-attachments/assets/9e51fc33-cee6-4e36-850e-d0acb0221d77" />
-<img width="1893" height="910" alt="image" src="https://github.com/user-attachments/assets/f62961b3-46c6-49b0-93bb-96f89502d8fe" />
-<img width="1887" height="907" alt="image" src="https://github.com/user-attachments/assets/516c84f6-3475-452a-9958-87bccd457351" />
-<img width="1890" height="901" alt="image" src="https://github.com/user-attachments/assets/21e6b5b7-7776-451c-9f34-006dfac3a407" />
-<img width="1892" height="902" alt="image" src="https://github.com/user-attachments/assets/ea6946fb-714f-498b-bbf6-3ccc14cdae27" />
+### Home Page
+![Home Page](screenshots/home.png)
 
+### Interview Trainer
+![Interview Trainer](screenshots/trainer.png)
+
+### Performance Dashboard
+![Dashboard](screenshots/dashboard.png)
 
 
 
@@ -182,8 +123,7 @@ HireWise AI aims to provide students and professionals with a smart interview pr
 
 ## 🌐 Live Demo
 
-
-https://auchyutsharma.github.io/HireWise-AI/
+   https://chintan16-bhatt.github.io/PrepMate-AI/
 
 
 
