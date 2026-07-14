@@ -1,4 +1,4 @@
-// HireWise AI - Interview Simulation Engine
+// PrepMate AI - Interview Simulation Engine
 
 
 const questions = {
